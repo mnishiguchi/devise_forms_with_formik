@@ -1,0 +1,24 @@
+{
+  "name": "devise_formik",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.17"
+  },
+  "dependencies": {
+    "formik": "^0.10.4",
+    "lodash": "^4.17.4",
+    "rails-ujs": "^5.1.4",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.76.0",
+    "yup": "^0.23.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
